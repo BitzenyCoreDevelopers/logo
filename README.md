@@ -20,7 +20,6 @@ https://bitzeny.world
 What is Symbol mark and Logo image?
 ----------------
 
-BitZeny is an e
 BitZeny is the digital currency released in 2014.
 However the official logo was not decided.
 
