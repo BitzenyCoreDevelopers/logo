@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   enable-background="new 0 0 3000 3000"
+   viewBox="0 0 50 50"
+   height="50"
+   width="50"
+   y="0px"
+   x="0px"
+   id="レイヤー_1"
+   version="1.1"><metadata
+   id="metadata3811"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3809" />
+<g
+   transform="matrix(0.01854627,0,0,0.01854627,-3.2299518,-2.214257)"
+   id="g3789">
+	<linearGradient
+   y2="219.9678"
+   x2="1732.4198"
+   y1="2257.1641"
+   x1="1732.4199"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_1_">
+		<stop
+   id="stop3763"
+   style="stop-color:#676365"
+   offset="0.04" />
+		<stop
+   id="stop3765"
+   style="stop-color:#5E5A5C"
+   offset="0.1422" />
+		<stop
+   id="stop3767"
+   style="stop-color:#4D494B"
+   offset="0.3953" />
+		<stop
+   id="stop3769"
+   style="stop-color:#423E41"
+   offset="0.6693" />
+		<stop
+   id="stop3771"
+   style="stop-color:#3F3B3E"
+   offset="1" />
+	</linearGradient>
+	<path
+   style="fill:url(#SVGID_1_)"
+   id="path3774"
+   d="m 1500.86,512.494 v 0 c 0.017,0 0.017,0 0.017,0 546.812,0 990.064,443.283 990.064,990.066 0,302.42 -135.757,572.985 -349.465,754.604 h 383.866 c 158.122,-212.48 251.691,-475.824 251.691,-761.04 0,-704.806 -571.347,-1276.157 -1276.157,-1276.157 -308.967,0 -592.284,109.81 -813.071,292.526 h 813.055 z" />
+	<linearGradient
+   y2="742.15582"
+   x2="1262.7396"
+   y1="2772.2832"
+   x1="1262.7397"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_2_">
+		<stop
+   id="stop3776"
+   style="stop-color:#676365"
+   offset="0.04" />
+		<stop
+   id="stop3778"
+   style="stop-color:#5E5A5C"
+   offset="0.1422" />
+		<stop
+   id="stop3780"
+   style="stop-color:#4D494B"
+   offset="0.3953" />
+		<stop
+   id="stop3782"
+   style="stop-color:#423E41"
+   offset="0.6693" />
+		<stop
+   id="stop3784"
+   style="stop-color:#3F3B3E"
+   offset="1" />
+	</linearGradient>
+	<path
+   style="fill:url(#SVGID_2_)"
+   id="path3787"
+   d="m 1500.877,2492.624 c -546.774,0 -990.045,-443.264 -990.045,-990.064 0,-305.607 138.544,-578.805 356.173,-760.404 H 471.291 c -154.959,211.246 -246.572,471.891 -246.572,753.969 0,704.804 571.381,1276.159 1276.158,1276.159 304.941,0 580.381,-103.408 799.884,-281.846 0,0 -763.844,2.186 -799.884,2.186 z" />
+</g>
+<linearGradient
+   gradientTransform="matrix(0,0.01854627,-0.01854627,0,75.920149,-61.212849)"
+   y2="2768.209"
+   x2="5208.5215"
+   y1="2768.209"
+   x1="4152.791"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_3_">
+	<stop
+   id="stop3791"
+   style="stop-color:#777375"
+   offset="0.04" />
+	<stop
+   id="stop3793"
+   style="stop-color:#767274"
+   offset="0.0485" />
+	<stop
+   id="stop3795"
+   style="stop-color:#5E5A5C"
+   offset="0.2568" />
+	<stop
+   id="stop3797"
+   style="stop-color:#4D494B"
+   offset="0.476" />
+	<stop
+   id="stop3799"
+   style="stop-color:#423E41"
+   offset="0.7135" />
+	<stop
+   id="stop3801"
+   style="stop-color:#3F3B3E"
+   offset="1" />
+</linearGradient>
+<path
+   style="fill:url(#SVGID_3_);stroke-width:0.01854627"
+   id="path3804"
+   d="M 34.370119,31.172286 V 20.019557 c 0,-2.327185 -1.886494,-4.213601 -4.213547,-4.213601 H 19.003878 c -2.327131,0 -4.213621,1.886416 -4.213621,4.213601 v 11.152729 c 0,2.327185 1.88649,4.213528 4.213621,4.213528 h 11.152694 c 2.327053,0 4.213547,-1.886343 4.213547,-4.213528 z M 20.224872,29.951367 V 21.24057 h 8.710761 v 8.710797 z" />
+</svg>
